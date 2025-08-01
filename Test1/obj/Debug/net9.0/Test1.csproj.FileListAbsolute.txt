@@ -1,0 +1,14 @@
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\bin\Debug\net9.0\Test1.exe
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\bin\Debug\net9.0\Test1.deps.json
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\bin\Debug\net9.0\Test1.runtimeconfig.json
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\bin\Debug\net9.0\Test1.dll
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\bin\Debug\net9.0\Test1.pdb
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\Test1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\Test1.AssemblyInfoInputs.cache
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\Test1.AssemblyInfo.cs
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\Test1.csproj.CoreCompileInputs.cache
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\Test1.dll
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\refint\Test1.dll
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\Test1.pdb
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\Test1.genruntimeconfig.cache
+C:\Projects\DotNet\Tests\GP Solutions\Tests\Test1\obj\Debug\net9.0\ref\Test1.dll

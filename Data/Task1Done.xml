@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TouristInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TouristGroups>
+    <ArrayOfTourist>
+      <Tourist xsi:type="Adult">
+        <Prefix>MRS</Prefix>
+        <Name>OLGA</Name>
+        <Surname>IVANOVA</Surname>
+      </Tourist>
+      <Tourist xsi:type="Child" BirthDate="2005-09-30T00:00:00">
+        <Prefix>MR</Prefix>
+        <Name>ALEXEY</Name>
+        <Surname>IVANOV</Surname>
+      </Tourist>
+      <Tourist xsi:type="Infant" BirthDate="2008-12-15T00:00:00">
+        <Prefix>MRS</Prefix>
+        <Name>ALESYA</Name>
+        <Surname>IVANOVA</Surname>
+      </Tourist>
+    </ArrayOfTourist>
+    <ArrayOfTourist>
+      <Tourist xsi:type="Adult">
+        <Prefix>MR</Prefix>
+        <Name>SERGEI</Name>
+        <Surname>PETROV</Surname>
+      </Tourist>
+      <Tourist xsi:type="Adult">
+        <Prefix>MRS</Prefix>
+        <Name>KATERINA</Name>
+        <Surname>PETROVA</Surname>
+      </Tourist>
+      <Tourist xsi:type="Child" BirthDate="2005-09-30T00:00:00">
+        <Prefix>MR</Prefix>
+        <Name>ANDREY</Name>
+        <Surname>PETVOV</Surname>
+      </Tourist>
+      <Tourist xsi:type="Infant" BirthDate="2008-12-15T00:00:00">
+        <Prefix>MRS</Prefix>
+        <Name>ALLA</Name>
+        <Surname>PETROVA</Surname>
+      </Tourist>
+      <Tourist xsi:type="Adult">
+        <Prefix>MRS</Prefix>
+        <Name>MARGARITHA</Name>
+        <Surname>PETROVA</Surname>
+      </Tourist>
+    </ArrayOfTourist>
+    <ArrayOfTourist>
+      <Tourist xsi:type="Adult">
+        <Prefix>MS</Prefix>
+        <Name>PAVEL</Name>
+        <Surname>WERDOV</Surname>
+      </Tourist>
+      <Tourist xsi:type="Infant" BirthDate="2008-12-15T00:00:00">
+        <Prefix>MRS</Prefix>
+        <Name>OKSANA</Name>
+        <Surname>WERDOVA</Surname>
+      </Tourist>
+    </ArrayOfTourist>
+    <ArrayOfTourist>
+      <Tourist xsi:type="Adult">
+        <Prefix>MRS</Prefix>
+        <Name>SASHA</Name>
+        <Surname>KAVADERKO</Surname>
+      </Tourist>
+    </ArrayOfTourist>
+    <ArrayOfTourist />
+  </TouristGroups>
+</TouristInfo>

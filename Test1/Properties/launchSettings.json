@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Test1": {
+      "commandName": "Project",
+      "commandLineArgs": "--process_xml \"C:\\Projects\\DotNet\\Tests\\GP Solutions\\Tests\\Data\\Task3.xml\""
+    }
+  }
+}
